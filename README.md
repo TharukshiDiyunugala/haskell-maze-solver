@@ -335,16 +335,4 @@ True
 
 ---
 
-## Contact & Support
 
-For questions or issues, contact:
-- [Your Group Email]
-- [GitHub Repository Link]
-
----
-
-## License
-
-This project is created for educational purposes as part of Functional Programming course.
-
-**Submitted:** December 2025
