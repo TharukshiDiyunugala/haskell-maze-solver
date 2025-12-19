@@ -1,10 +1,10 @@
 # Haskell Maze Solver - Functional Programming Mini Project
 
 ## Group Members
-Dissanayake P.K - EG/2020/3916
-Diyunugala D.T.N - EG/2020/3918
-Ekanayake E.M.S.D - EG/2020/3922
-Rajapaksha R.D.K.S - EG/2020/4131
+- Dissanayake P.K - EG/2020/3916
+- Diyunugala D.T.N - EG/2020/3918
+- Ekanayake E.M.S.D - EG/2020/3922
+- Rajapaksha R.D.K.S - EG/2020/4131
 
 **Project Title:** Functional Maze Solver with Multiple Pathfinding Algorithms
 
